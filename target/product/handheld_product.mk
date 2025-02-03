@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     DeskClock \
     ExactCalculator \
     Gallery2 \
+    RepairMode \
     InfoApp \
     LatinIME \
     Music \
